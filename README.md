@@ -20,10 +20,7 @@ npm install
 2. Configure environment variables in `.env`:
 ```
 JWT_SECRET=your_jwt_secret
-DB_HOST=localhost
-DB_USER=postgres
-DB_PASS=your_password
-DB_NAME=your_database
+PORT=3000
 ```
 
 3. Run database migrations:
